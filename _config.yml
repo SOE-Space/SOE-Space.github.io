@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "LieutenantCarrot"
   avatar           : "assets/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "讨厌胡萝卜，但是有很多喜欢的东西"
+  bio              : "讨厌胡萝卜"
   location         : "中国 · 上海"
   email            : 
   links:
