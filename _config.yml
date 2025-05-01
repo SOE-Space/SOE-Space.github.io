@@ -124,7 +124,7 @@ author:
   location         : "中国 · 上海"
   email            : "chwu@unc.edu"
   links:
-    - label: "电子邮箱"
+    - label: "chwu@unc.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:chwu@unc.edu"
     - label: "Website"
