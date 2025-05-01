@@ -30,6 +30,7 @@ teaser                   : "/assets/images/500x300.png" # path of fallback tease
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true #, false (default)
+read_time: true
 words_per_minute         : 200
 show_date: true
 enable_copy_code_button  : # true, false (default)
