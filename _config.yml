@@ -122,11 +122,11 @@ author:
   avatar           : "assets/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "讨厌胡萝卜"
   location         : "中国 · 上海"
-  email            : "chwu@unc.edu"
+  email            :
   links:
     - label: "chwu@unc.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:chwu@unc.edu"
+      url: "mailto:chwu@unc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
