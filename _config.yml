@@ -115,10 +115,10 @@ analytics:
 # Site Author
 author:
   name             : "LieutenantCarrot"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "assets/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "讨厌胡萝卜"
+  location         : "中国 · 上海"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
