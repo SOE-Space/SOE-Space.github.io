@@ -303,7 +303,7 @@ tag_archive:
   type: jekyll-archives
   path: /tags/
 jekyll-archives:
-  enabled:
+  enabled: true
     - categories
     - tags
   layouts:
