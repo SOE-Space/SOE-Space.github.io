@@ -305,6 +305,7 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 
 
 # HTML Compression
