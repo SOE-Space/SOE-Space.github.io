@@ -2,7 +2,6 @@
 title: "Edge Case: Nested and Mixed Lists"
 categories:
   - Edge Case
-date: 2025-05-16
 tags:
   - content
   - css
