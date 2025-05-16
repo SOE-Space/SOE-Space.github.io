@@ -9,7 +9,7 @@ tags:
 toc: true
 ---
 {% include figure 
-   image_path="/assets/contents/2025-05-16-in the aeroplane over the sea.jpg" 
+   image_path="/assets/contents/2025-05-16-In the Aeroplane Over the Sea1.jpg" 
    alt="专辑图片"
    caption="In the Aeroplane Over the Sea - Neutral Milk Hotel" 
    width="500"
