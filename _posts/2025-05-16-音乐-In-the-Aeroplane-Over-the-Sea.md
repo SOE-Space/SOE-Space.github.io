@@ -7,6 +7,7 @@ tags:
   - 音乐
   - Indie Rock
 toc: true
+toc_sticky: true  
 ---
 {% include figure 
    image_path="/assets/contents/2025-05-16-In the Aeroplane Over the Sea1.jpg" 
