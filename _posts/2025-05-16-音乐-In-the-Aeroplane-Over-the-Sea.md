@@ -39,8 +39,8 @@ toc: true
 * 存在很重要，但也还是请不要无聊到否认幻觉了。
 
 {% include figure 
-   image_path="/assets/contents/2025-05-16-in the aeroplane over the sea2.jpg" 
+   image_path="/assets/contents/2025-05-16-In the Aeroplane Over the Sea2.jpg" 
    alt="专辑图片"
-   caption="In the Aeroplane Over the Sea，专辑插画" 
+   caption="In the Aeroplane Over the Sea，专辑插画之一" 
    width="500"
 %}
