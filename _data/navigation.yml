@@ -15,7 +15,7 @@ main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "Posts"
-    url: test/_posts
+    url: test/posts
   - title: "Categories"
     url: /categories/
   - title: "Tags"
