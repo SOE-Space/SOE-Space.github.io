@@ -1,7 +1,7 @@
 ---
 title: "Edge Case: Many Tags"
 categories:
-  - [Test,Edge Case]
+  - [Test,Edge-Case]
 tags:
   - 8BIT
   - alignment
