@@ -313,6 +313,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+collections:
+  sample collections:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
