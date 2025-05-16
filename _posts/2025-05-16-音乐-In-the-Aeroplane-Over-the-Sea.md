@@ -6,6 +6,7 @@ tags:
   - 摇滚乐
   - 音乐
   - Indie Rock
+toc: true
 ---
 {% include figure 
    image_path="/assets/contents/2025-05-16-in the aeroplane over the sea.jpg" 
