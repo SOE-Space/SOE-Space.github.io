@@ -319,7 +319,7 @@ toc:
   sticky_offset: 20px   # 距离顶部间距（根据导航栏高度调整）
 read_time:
   enabled: true
-  words_per_minute: 200
+  words_per_minute: 250
 
 # Defaults
 defaults:
