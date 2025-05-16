@@ -320,6 +320,7 @@ toc:
 read_time:
   enabled: true
   words_per_minute: 250
+  counting_method: chars
 
 # Defaults
 defaults:
