@@ -330,7 +330,7 @@ defaults:
       date_format: "%Y-%m-%d"
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
 archive:
   enabled: true
