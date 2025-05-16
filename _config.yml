@@ -223,6 +223,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+---
+layout: splash
+classes:
+  - landing
+  - dark-theme
+---
 
 # Sass/SCSS
 sass:
