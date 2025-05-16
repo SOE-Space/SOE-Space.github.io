@@ -9,16 +9,17 @@ tags:
 toc: true
 toc_sticky: true  
 ---
+
+要是放在以前，我断然不可能将我的第一个*乐评* *献给这样一张Indie Rock风格的专辑，有太多的好作品了。
+
+但是这张专辑就是这么奇怪，当我真的要频繁坐上越洋飞机，便会在每一次起飞前听上几遍，等着飞机把我带去一个新的国家。
+
 {% include figure 
    image_path="/assets/contents/2025-05-16-In the Aeroplane Over the Sea1.jpg" 
    alt="专辑图片"
    caption="In the Aeroplane Over the Sea - Neutral Milk Hotel" 
    width="500"
 %}
-
-要是放在以前，我断然不可能将我的第一个*乐评* *献给这样一张Indie Rock风格的专辑，有太多的好作品了。
-
-但是这张专辑就是这么奇怪，当我真的要频繁坐上越洋飞机，便会在每一次起飞前听上几遍，等着飞机把我带去一个新的国家。
 
 ### 诡异
 * 无论是乐队名，专辑名，专辑封面，歌词，到音乐本身都透露着吊诡气息。
