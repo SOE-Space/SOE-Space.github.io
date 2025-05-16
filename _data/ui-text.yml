@@ -1,4 +1,5 @@
 # User interface text and labels
+breadcrumbs: true  # disabled by default
 
 # English (default)
 # -----------------
