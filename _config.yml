@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "zh-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "LieutenantCarrot的个人网站"
+title                    : "SOE-Space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "LieutenantCarrot的个人网站"
-description              : "LieutenantCarrot的个人网站"
+name                     : "SOE-Space"
+description              : "复旦经院的资源分享网站"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -119,7 +119,7 @@ analytics:
 author:
   name             : "LieutenantCarrot"
   avatar           : "assets/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "讨厌胡萝卜"
+  bio              : "SOE"
   location         : "中国 · 上海"
   email            :
   links:
