@@ -129,8 +129,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "X"
-      icon: "fab fa-x-twitter"
+    #- label: "X"
+    #  icon: "fab fa-x-twitter"
     #  url: "https://x.com/ChengyuWu2003"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -138,22 +138,22 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SOE-Space/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-   - label: "X"
+    - label: "X"
       icon: "fab fa-x-twitter"
-    #  url: "https://x.com/ChengyuWu2003"
+      url: "https://x.com/ChengyuWu2003"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SOE-Space/"
+      url: "https://github.com/LieutenantCarrot/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -162,7 +162,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 
 # Reading Files
