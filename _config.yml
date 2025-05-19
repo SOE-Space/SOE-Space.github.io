@@ -119,7 +119,7 @@ analytics:
 author:
   name             : "SOE-Space"
   avatar           : "assets/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "一个公开的生活空间，希望SOEers能在这里看到感兴趣的内容。"
+  bio              : "一个公共的生活空间，希望SOEers能在这里看到感兴趣的内容。"
   location         : "中国 · 上海"
   email            :
   links:
