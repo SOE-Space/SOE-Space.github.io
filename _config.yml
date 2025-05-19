@@ -145,9 +145,9 @@ author:
 # Site Footer
 footer:
   links:
-    #- label: "X"
-    ##  icon: "fab fa-x-twitter"
-      url: "https://x.com/ChengyuWu2003"
+   - label: "X"
+      icon: "fab fa-x-twitter"
+    #  url: "https://x.com/ChengyuWu2003"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -160,8 +160,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
 
 
@@ -331,7 +331,7 @@ defaults:
       author_profile: true
       show_date: true
       date_format: "%Y-%m-%d"
-      read_time: true
+      read_time: false
       comments: true
       share: false
       related: true
