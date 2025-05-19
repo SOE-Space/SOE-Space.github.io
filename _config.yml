@@ -131,7 +131,7 @@ author:
       url: "mailto:21300680072@m.fudan.edu.cn"
     - label: "zixuan_bao@outlook.com"
       icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:zixuan_bao@outlook.com"
+      url: "mailto:zixuan_bao@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
